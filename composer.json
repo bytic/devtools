@@ -7,7 +7,7 @@
         }
     ],
     "require": {
-        "bytic/codeception": "^4.0",
+        "bytic/codeception": "^4.0|^5.0",
         "bytic/phpqatools": "^1.0",
         "bytic/deployer-recipies": "^6.0|^7.0"
     },
